@@ -4,9 +4,6 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<<<<<<< HEAD
-<a href="https://avelinoteixeira.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 001</a>
-=======
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -25,4 +22,3 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
   <a href="https://www.linkedin.com/in/avelino-teixeira-jo%C3%A3o-351a8524a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
->>>>>>> 8331250ec497dd1bf64c793fdccd1eaa7726bebf
